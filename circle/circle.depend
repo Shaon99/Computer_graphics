@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1614484233 source:d:\project\circle\main.cpp
+	<stdio.h>
+	<iostream>
+	<GL/glut.h>
+
+1612552776 c:\program files (x86)\codeblocks\mingw\include\gl\glut.h
+	<windows.h>
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+

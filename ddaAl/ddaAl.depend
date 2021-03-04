@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1614445580 source:d:\project\ddaal\main.cpp
+	<windows.h>
+	<GL/glut.h>
+	<iostream>
+	<stdlib.h>
+
+1612552776 c:\program files (x86)\codeblocks\mingw\include\gl\glut.h
+	<windows.h>
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
